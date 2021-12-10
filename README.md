@@ -2,7 +2,7 @@
 ## Group member: Elaine Zhang, Xintong Zheng, Xi Yan
 This project is about analysis and operation suggestions for HealthyRide. In this project, we split into 3 questions to better analyze HealthyRide.
 1. How long do users usually ride based on other features?
-2. Do subscribers spend more time riding bikes than customers?
+2. How can we determine usertypes based on other features?
 3. What is the influence of weather on trip duration? Weather is examined by average wind speed, precipitation, maximum temperature, minimum temperature, and average temperature.
 
 For the first two questions, we perform classifications, and for the third question, we used clustering to try to answer these questions.
